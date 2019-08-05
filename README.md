@@ -1,16 +1,16 @@
 # electron-model
 
-## Project setup
+## node_module生成
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 开发模式启动服务
 ```
 yarn electron:serve
 ```
 
-### Compiles and minifies for production
+### 生产模式打包生成exe
 ```
 yarn electron:build
 ```
