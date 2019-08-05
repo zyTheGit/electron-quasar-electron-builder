@@ -1,4 +1,4 @@
-# electron-model
+# electron-model 是一个开发electron开发的桌面程序的初始化项目
 
 ## node_module生成
 ```
